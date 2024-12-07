@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#A999BD</color>
+    <color name="purple_700">#9381BA</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- New colors for night mode -->
+    <color name="purple_800">#6A568F</color> <!-- Warna ungu lebih gelap lagi untuk Night Mode -->
+    <color name="purple_900">#4E3D73</color>
+    <color name="grey_600">#B0BEC5</color>
+    <color name="grey_700">#90A4AE</color>
+    <color name="grey_800">#1C1C1C</color>
+</resources>
